@@ -1,0 +1,15 @@
+{
+  "name": "animated_css",
+  "version": "1.0.0",
+  "description": "animated--css",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "sass --watch sass/main.scss css/style.css"
+  },
+  "devDependencies": {
+    "sass": "^1.101.0"
+  }
+}
